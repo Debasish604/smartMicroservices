@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{5B3FE768-BEF1-4D48-8194-A7676E7846A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartServices", "SmartServices\SmartServices.csproj", "{ABB5728B-A1BB-4CAB-9CDE-0F1367F796CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB5728B-A1BB-4CAB-9CDE-0F1367F796CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB5728B-A1BB-4CAB-9CDE-0F1367F796CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB5728B-A1BB-4CAB-9CDE-0F1367F796CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB5728B-A1BB-4CAB-9CDE-0F1367F796CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABB5728B-A1BB-4CAB-9CDE-0F1367F796CF} = {5B3FE768-BEF1-4D48-8194-A7676E7846A1}
+	EndGlobalSection
+EndGlobal

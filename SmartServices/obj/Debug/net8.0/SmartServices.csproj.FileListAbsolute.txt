@@ -1,0 +1,273 @@
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.Development.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.staticwebassets.endpoints.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.exe
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.deps.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.runtimeconfig.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.pdb
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.AssemblyReference.cache
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfoInputs.cache
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfo.cs
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.CoreCompileInputs.cache
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cs
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cache
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\scopedcss\bundle\SmartServices.styles.css
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.build.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.development.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.SmartServices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.SmartServices.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartServices.props
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartServices.props
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartServices.props
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartSer.660873AB.Up2Date
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\refint\SmartServices.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.pdb
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.genruntimeconfig.cache
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\ref\SmartServices.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.exe
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.deps.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.runtimeconfig.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.pdb
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfo.cs
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.sourcelink.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.SmartServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartServices.props
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartServices.props
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartServices.props
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\scopedcss\bundle\SmartServices.styles.css
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartSer.660873AB.Up2Date
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\refint\SmartServices.dll
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.pdb
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.genruntimeconfig.cache
+C:\Users\HP\Desktop\smart dotnet\smartMicroservices\SmartServices\obj\Debug\net8.0\ref\SmartServices.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\AutoMapper.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.sourcelink.json
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Cors.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.Cors.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\SmartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.Development.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.exe
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.deps.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.runtimeconfig.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.pdb
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\AutoMapper.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Cors.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.Cors.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.AssemblyReference.cache
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfoInputs.cache
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfo.cs
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.CoreCompileInputs.cache
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cs
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cache
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.sourcelink.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.build.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.development.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.SmartServices.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartServices.props
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartServices.props
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartServices.props
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.pack.json
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\scopedcss\bundle\SmartServices.styles.css
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartSer.660873AB.Up2Date
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\refint\SmartServices.dll
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.pdb
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.genruntimeconfig.cache
+E:\dot net\project\smartservice\smartMicroservices\SmartServices\obj\Debug\net8.0\ref\SmartServices.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.Development.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.exe
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.deps.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.runtimeconfig.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.pdb
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\AutoMapper.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Cors.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.Cors.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.AssemblyReference.cache
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfoInputs.cache
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfo.cs
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.CoreCompileInputs.cache
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cs
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cache
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.sourcelink.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.build.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.development.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.SmartServices.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartServices.props
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartServices.props
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartServices.props
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.pack.json
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\scopedcss\bundle\SmartServices.styles.css
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartSer.660873AB.Up2Date
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\refint\SmartServices.dll
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.pdb
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.genruntimeconfig.cache
+E:\dot net\project\smart\smartMicroservices\SmartServices\obj\Debug\net8.0\ref\SmartServices.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.Development.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\appsettings.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.exe
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.deps.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.runtimeconfig.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\SmartServices.pdb
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\AutoMapper.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Cors.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Web.Http.Cors.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.AssemblyReference.cache
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfoInputs.cache
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.AssemblyInfo.cs
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.csproj.CoreCompileInputs.cache
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cs
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.MvcApplicationPartsAssemblyInfo.cache
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.sourcelink.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.build.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.development.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.SmartServices.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.build.SmartServices.props
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SmartServices.props
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SmartServices.props
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\staticwebassets.pack.json
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\scopedcss\bundle\SmartServices.styles.css
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartSer.660873AB.Up2Date
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\refint\SmartServices.dll
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.pdb
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\SmartServices.genruntimeconfig.cache
+E:\dot net\project\smart23122024\smartMicroservices\SmartServices\obj\Debug\net8.0\ref\SmartServices.dll

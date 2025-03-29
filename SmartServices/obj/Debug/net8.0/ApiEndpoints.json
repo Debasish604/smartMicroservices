@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "SmartServices.Controllers.SmartServicesController",
+    "Method": "CreateJobAndSendEmails",
+    "RelativePath": "api/SmartServices/CreatedJob",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobSaveRequest",
+        "Type": "SmartServices.models.Dto.JobSaveRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartServices.Controllers.SmartServicesController",
+    "Method": "GetJobDescription",
+    "RelativePath": "api/SmartServices/GetJobDescription",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobDescriptionRequest",
+        "Type": "SmartServices.models.Dto.JobDescriptionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartServices.Controllers.SmartServicesController",
+    "Method": "SendCandidateEmails",
+    "RelativePath": "api/SmartServices/SendCandidateEmails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "jobHiringManager",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

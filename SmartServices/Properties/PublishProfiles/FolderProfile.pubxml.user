@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PWC_HIERING_POJ_2025_DOTNET_MICROSERVICES\IISDeployCode\smarts</_PublishTargetUrl>
+    <History>True|2024-12-19T07:30:47.4120782Z||;False|2024-12-19T13:00:05.8475729+05:30||;True|2024-12-19T09:40:05.8052768+05:30||;False|2024-12-19T09:39:31.5510750+05:30||;True|2024-12-18T20:37:23.8132122+05:30||;True|2024-12-18T10:26:02.2319381+05:30||;True|2024-12-17T20:32:29.1883964+05:30||;False|2024-12-17T20:32:06.5392196+05:30||;True|2024-12-15T17:59:11.2619806+05:30||;False|2024-12-15T17:58:37.7234518+05:30||;True|2024-12-15T14:36:12.2018493+05:30||;True|2024-12-14T18:25:56.2191456+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
